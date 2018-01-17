@@ -1,0 +1,10 @@
+D:\Development\Isik\Sayim\Sayim\bin\Debug\Sayim.exe
+D:\Development\Isik\Sayim\Sayim\bin\Debug\Sayim.pdb
+D:\Development\Isik\Sayim\Sayim\obj\Debug\ResolveAssemblyReference.cache
+D:\Development\Isik\Sayim\Sayim\obj\Debug\Sayim.Form1.resources
+D:\Development\Isik\Sayim\Sayim\obj\Debug\Sayim.Properties.Resources.resources
+D:\Development\Isik\Sayim\Sayim\obj\Debug\Sayim.csproj.GenerateResource.Cache
+D:\Development\Isik\Sayim\Sayim\obj\Debug\Sayim.exe
+D:\Development\Isik\Sayim\Sayim\obj\Debug\Sayim.pdb
+D:\Development\Isik\Sayim\Sayim\obj\Debug\Sayim.Form2.resources
+D:\Development\Isik\Sayim\Sayim\obj\Debug\Sayim.Form3.resources

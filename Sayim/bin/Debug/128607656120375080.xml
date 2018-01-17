@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <SAYIM>
+    <BARKOD>1000183-P999</BARKOD>
+    <MIKTAR>12</MIKTAR>
+    <OB>KL</OB>
+    <DEPO>1010</DEPO>
+  </SAYIM>
+  <SAYIM>
+    <BARKOD>1000183-P998</BARKOD>
+    <MIKTAR>13</MIKTAR>
+    <OB>KL</OB>
+    <DEPO>1010</DEPO>
+  </SAYIM>
+  <SAYIM>
+    <BARKOD>12</BARKOD>
+    <MIKTAR>12</MIKTAR>
+    <OB>PAL</OB>
+    <DEPO>1010</DEPO>
+  </SAYIM>
+  <SAYIM>
+    <BARKOD>13</BARKOD>
+    <MIKTAR>13</MIKTAR>
+    <OB>PAL</OB>
+    <DEPO>1010</DEPO>
+  </SAYIM>
+  <SAYIM>
+    <BARKOD>14</BARKOD>
+    <MIKTAR>14</MIKTAR>
+    <OB>PAL</OB>
+    <DEPO>1010</DEPO>
+  </SAYIM>
+  <SAYIM>
+    <BARKOD>15</BARKOD>
+    <MIKTAR>15</MIKTAR>
+    <OB>PAL</OB>
+    <DEPO>1010</DEPO>
+  </SAYIM>
+  <SAYIM>
+    <BARKOD>16</BARKOD>
+    <MIKTAR>16</MIKTAR>
+    <OB>PAL</OB>
+    <DEPO>1010</DEPO>
+  </SAYIM>
+</NewDataSet>
